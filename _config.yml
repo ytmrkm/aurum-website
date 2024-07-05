@@ -1,7 +1,7 @@
 host:        127.0.0.1
 port:        4000
 
-name:        "Welcome to the Void"
+name:        "Welcome to aurumOS"
 markdown:    kramdown
 highlighter: rouge
 
@@ -24,6 +24,6 @@ defaults:
     values:
       is_post: true # automatically set is_post=true for all posts
 
-download_mirror: https://repo-default.voidlinux.org/live/current
+download_mirror: https://github.com/ytmrkm/aurum/releases/download
 download_build_date: 2024-03-14
-container_url: https://github.com/void-linux/void-containers/pkgs/container/
+container_url: https://github.com/ytmrkm/aurum-packages/pkgs/container/
