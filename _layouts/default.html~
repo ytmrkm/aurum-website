@@ -25,7 +25,7 @@
 		<link rel="stylesheet" href="/assets/css/misc.css">
 		<link href='/assets/css/font-ubuntu.css' rel='stylesheet' type='text/css'>
 		{% if site.snow == 1 %}<link rel="stylesheet" type="text/css" href="/assets/css/snow.css" />{% endif %}
-		<link rel="alternate" type="application/atom+xml" title="Void Linux News feed" href="/atom.xml" />
+		<link rel="alternate" type="application/atom+xml" title="aurumOS News feed" href="/atom.xml" />
 		<script src="/assets/js/jquery.min.js"></script>
 		<script src="/assets/js/bootstrap.min.js"></script>
 		<script src="/assets/js/tabbar.js"></script>
@@ -48,9 +48,8 @@
 						<li><a href="/download/">Download</a></li>
 						<li><a href="/packages/">Packages</a></li>
 						<li><a href="/acknowledgments/">Acknowledgments</a></li>
-						<li><a href="https://docs.voidlinux.org">Documentation</a></li>
+						<li><a href="https://aurumwiki.mrkm.pp.ua">Wiki</a></li>
 						<li><a href="https://man.voidlinux.org/">Manual Pages</a></li>
-						<li><a href="https://github.com/void-linux">GitHub</a></li>
 					</ul>
 				</div>
 			</div>

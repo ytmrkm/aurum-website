@@ -94,13 +94,7 @@ a:hover {
 	right:0;
 	margin:-15px auto;
 }
-#davoid:hover .bg {
-	transform:rotate(360deg);
-	-moz-transform: rotate(360deg);
-	-ms-transform: rotate(360deg);
-	-o-transform: rotate(360deg);
-	-webkit-transform: rotate(360deg);
-}
+
 img {
 	max-width: 95%;
 	margin: 30px auto;
@@ -277,9 +271,9 @@ h1[id], h2[id], h3[id], h4[id], h5[id], h6[id] {
     color: #ece7e9;
     background-color: #20252c;
   }
-  h1, h2, h3, h4, h5, h6 { color: #4478ab; }
+  h1, h2, h3, h4, h5, h6 { color: #ece7e9; }
   a {
-    color: #62b086;
+    color: #4478ab;
   }
   a:hover {
     color: #ece7e9;
