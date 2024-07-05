@@ -46,10 +46,8 @@
 						<li><a href="/">Home</a></li>
 						<li><a href="/news/">News</a></li>
 						<li><a href="/download/">Download</a></li>
-						<li><a href="/packages/">Packages</a></li>
 						<li><a href="/acknowledgments/">Acknowledgments</a></li>
 						<li><a href="https://aurumwiki.mrkm.pp.ua">Wiki</a></li>
-						<li><a href="https://man.voidlinux.org/">Manual Pages</a></li>
 					</ul>
 				</div>
 			</div>

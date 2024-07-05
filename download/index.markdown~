@@ -1,6 +1,6 @@
 ---
 layout: download
-title: Enter the void - Downloads
+title: Downloads
 ---
 ## Download Void Linux
 
