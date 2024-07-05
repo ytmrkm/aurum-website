@@ -14,11 +14,11 @@
 }
 
 a {
-	color:#4478ab;
+	color:#061313;
 }
 a:hover {
 	text-decoration:none;
-	color:black;
+	color:white;
 }
 .fa {
 	font-family:FontAwesome;
@@ -157,24 +157,24 @@ img, .video {
 	padding-right: 8em;
 }
 .navbar {
-	background-color:#4478ab;
+	background-color: #295340;
 	border:0;
 	z-index: 1;
 }
 .nav li:hover {
-	background-color: #20252c;
+	background-color: #061313;
 }
 h1[id], h2[id], h3[id], h4[id], h5[id], h6[id] {
 	padding-top:50px;
 	margin-top:-40px;
 }
 .btn-green {
-	color: #fff;
-	background-color: #478061;
-	border-color: #478061;
+	color: #44b49d;
+	background-color: #295340;
+	border-color: #295340;
 }
 .btn-green:hover {
-	color: #fff;
+	color: #44b49d;
 	background-color: black;
 	border-color: black;
 }
@@ -259,24 +259,24 @@ h1[id], h2[id], h3[id], h4[id], h5[id], h6[id] {
   margin-bottom: 2rem;
 }
 .inline-download-links .label-warning {
-  background-color: #fdf6e3;
+  background-color: #295340;
   color: #535353;
 }
 .inline-download-links .label-default {
-  background-color: #ddd;
+  background-color: #295340;
   color: #535353;
 }
 
   body {
-    color: #ece7e9;
-    background-color: #20252c;
+    color: #44b49d;
+    background-color: #061313;
   }
   h1, h2, h3, h4, h5, h6 { color: #ece7e9; }
   a {
-    color: #4478ab;
+    color: #061313;
   }
   a:hover {
-    color: #ece7e9;
+    color: #44b49d;
   }
   hr {
     border-top: 1px solid #4478ab;
