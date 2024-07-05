@@ -4,7 +4,7 @@ title: Enter the void - Downloads
 ---
 ## Download Void Linux
 
-All **live images** and **rootfs tarballs** are available at:
+All **live images** are available at:
 
 - [{{ site.download_mirror }}]({{ site.download_mirror }})
 
