@@ -14,7 +14,7 @@
 }
 
 a {
-	color:#061313;
+	color:#44b49d;
 }
 a:hover {
 	text-decoration:none;
@@ -319,7 +319,7 @@ h1[id], h2[id], h3[id], h4[id], h5[id], h6[id] {
     display:none;
   }
   .nav li:hover {
-    background-color: #20252c;
+    background-color: #44b49d;
   }
   .inline-download-links .label-default, .inline-download-links .label-warning {
     background-color: inherit;
@@ -333,7 +333,7 @@ h1[id], h2[id], h3[id], h4[id], h5[id], h6[id] {
     color: #ffd804;
   }
   .navbar {
-    background-color: #4478ab;
+    background-color: #061313;
   }
   #davoid .fg.standard-mode {
     content: url(/assets/img/void_fg_dark.png);
